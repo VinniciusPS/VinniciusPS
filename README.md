@@ -16,7 +16,7 @@ Project repo: https://github.com/VinniciusPS/Rossmann-Sales-Prediction
 
 <br>
 
-### Python Development
+### Python Solutions
 
 ### [Hotmart Mass Uploader](https://github.com/VinniciusPS/Hotmart-Mass-Uploader)
 
@@ -25,3 +25,13 @@ In the weekly meeting, it was verified that the product launch had a tight deadl
 Project repo: https://github.com/VinniciusPS/Hotmart-Mass-Uploader
 
 <br>
+
+### Web Scraping
+
+### [Inflation Calculator](https://github.com/VinniciusPS/Inflation-Calculator)
+
+Inflation calculator with updated data directly from IPEA, through a Web Scraping process. 
+The project was created for educational purposes.
+
+Project repo: https://github.com/VinniciusPS/Inflation-Calculator
+Check out online!: https://share.streamlit.io/vinniciusps/inflation-calculator/main/ipea.py
