@@ -34,4 +34,5 @@ Inflation calculator with updated data directly from IPEA, through a Web Scrapin
 The project was created for educational purposes.
 
 Project repo: https://github.com/VinniciusPS/Inflation-Calculator
-Check out online!: https://share.streamlit.io/vinniciusps/inflation-calculator/main/ipea.py
+
+Check it out online!: https://share.streamlit.io/vinniciusps/inflation-calculator/main/ipea.py
