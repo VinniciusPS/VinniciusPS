@@ -1,6 +1,6 @@
 ---
 
-Hi, my name is **Vinnicius Pereira**. I'm a data analyst with experience in financial data and transactional data. I like to be around people and I am fulfilled when I can help them through good information. Knowledge and respect for others is the key that changes everything.
+Hi, my name is **Vinnicius Pereira**. I'm a professional with 5 years of experience in data analysis with Python, Power BI, SQL and Excel. 
 
 ---
 
